@@ -1,4 +1,4 @@
-# # Repositório destinado a disciplina: Programação Orientada á Objetos
+## Repositório destinado a disciplina: Programação Orientada á Objetos
 III SEMESTRE - Análise e Desenvolvimento de Sistemas
 
 Aulas ministradas pelo professor: [Gerson da Penha Neto](https://github.com/gerson-pn)
